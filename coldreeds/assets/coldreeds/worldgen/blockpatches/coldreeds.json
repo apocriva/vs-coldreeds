@@ -1,0 +1,13 @@
+[
+	{
+		// Cold-weather reeds
+		blockCodes: ["game:tallplant-coopersreed-land-normal-free"],
+		minTemp: -3,
+		maxTemp: 3,
+		minRain: 0.4,
+		maxRain: 1,
+		quantity: { avg: 5, var: 5 },
+		chance: 1,
+		placement: "NearWater"
+	},
+]

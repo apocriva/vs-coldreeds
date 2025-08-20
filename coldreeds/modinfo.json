@@ -1,0 +1,15 @@
+{
+	"type": "content",
+	"name": "Cold Reeds",
+	"version": "0.0.0",
+	"description": "Allows reeds to spawn in colder climates",
+	"modid": "coldreeds",
+	"authors": [ "apocriva" ],
+	"side": "Universal",
+	"requiredOnClient": true,
+	"requiredOnServer": true,
+	"dependencies": {
+		"game": "1.20.0",
+		"survival": "*"
+	}
+}
